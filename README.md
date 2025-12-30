@@ -1,16 +1,41 @@
-## Hi there 👋
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# 💫 About Me:
+<br>👩‍💻 Computer Science Engineering Student | Passionate about Full-Stack, AI/ML, and designing.<br><br>
+🔭 **Currently Working On:** My "AI-Powered Personalized Algo-Trading Bot" – a system that translates user goals in plain language into a custom trading strategy, integrating ML, NLP, and broker APIs.<br><br>
+🌱 **Currently Learning:** Advanced React.js patterns and deepening my knowledge of backend system design with Docker. I'm actively expanding my skills in Machine Learning through a structured, project-driven approach<br><br>
+🔭 **Current Focus & Projects:** <br>
+🚀 AI-Powered Personalized Algo-Trading Bot (In Development)<br>A system that translates user investment goals in plain language into a custom trading strategy, integrating ML, NLP, and broker APIs (Zerodha, Groww).<br><br>
+👁️ LaunchLens (Full-Stack)<br>A platform connecting product creators with targeted testers for pre-launch validation across 5 niches (SaaS, apps, games, digital products, e-commerce). Built with React.js & TypeScript.<br><br>
+📄 PDF Analyzer (Machine Learning)<br>An intelligent, offline-first document processor with a custom-trained LightGBM model. Built for Adobe India Hackathon 2025 to classify and extract hierarchical content based on user persona.<br><br>
+🏫 Campus Courses and Records Manager (System Design)<br>A comprehensive Java console application for managing students, courses, enrollments, and grades in an educational institution.<br><br>
 
-<!--
-**Ananya-Vajpayee/Ananya-Vajpayee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 **Looking to Collaborate On:** Innovative open-source projects, especially in web development, automation tools, or applied AI/ML. Open to hackathons!<br><br>
+🤔 **Looking for Help With:** Best practices for scaling full-stack applications and optimizing machine learning pipelines for production.<br><br>
+💬 **Ask Me About:** Full-stack development (React, JavaScript, Java), building with AI/ML, project ideation.<br><br>
+📫 **How to Reach Me:** <br>   - **Email:** ananyavajpayee0904@gmail.com<br>   - **LinkedIn:** [https://www.linkedin.com/in/ananya-vajpayee-9633a8257/]<br><br>
+📄 **Resume:**https://drive.google.com/file/d/14IMB4IoVrD522j66yR04Bj8C3Qa-ztuq/view?usp=sharing<br><br>
+⚡ **Fun Fact:** I enjoy bridging creative design (using Figma/Adobe Suite) with functional code to build user-centric applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ananyavajpayee_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-vajpayee-9633a8257/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/Ananya_Vajpayee/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananyavajpayee0904@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ananya-Vajpayee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ananya-Vajpayee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Vajpayee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributions
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Ananya-Vajpayee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ananya-Vajpayee&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Vajpayee&layout=compact&theme=tokyonight&langs_count=8)
+
+### 📅 Activity Timeline
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Vajpayee&theme=github-dark&hide_border=true&area=true)
+
