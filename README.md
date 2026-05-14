@@ -1,7 +1,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 # 💫 About Me:
 <br>👩‍💻 Computer Science Engineering Student | Passionate about Full-Stack, AI/ML, and designing.<br><br>
-🔭 **Currently Working On:** My "AI-Powered Personalized Algo-Trading Bot" – a system that translates user goals in plain language into a custom trading strategy, integrating ML, NLP, and broker APIs.<br><br>
 🌱 **Currently Learning:** Advanced React.js patterns and deepening my knowledge of backend system design with Docker. I'm actively expanding my skills in Machine Learning through a structured, project-driven approach<br><br>
 🔭 **Current Focus & Projects:** <br>
 🚀 AI-Powered Personalized Algo-Trading Bot (In Development)<br>A system that translates user investment goals in plain language into a custom trading strategy, integrating ML, NLP, and broker APIs (Zerodha, Groww).<br><br>
