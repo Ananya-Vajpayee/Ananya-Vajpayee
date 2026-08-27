@@ -25,6 +25,5 @@
 
 ### 📅 Activity Timeline
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Vajpayee)](https://github.com/Ananya-Vajpayee)
-
-
+[![GitHub Activity Graph]
+(https://github-readme-activity-graph-tawny-one.vercel.app/)
