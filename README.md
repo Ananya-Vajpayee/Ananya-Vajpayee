@@ -12,7 +12,7 @@
 🤔 **Looking for Help With:** Best practices for scaling full-stack applications and optimizing machine learning pipelines for production.<br><br>
 💬 **Ask Me About:** Full-stack development (React, JavaScript, Java), building with AI/ML, project ideation.<br><br>
 📫 **How to Reach Me:** <br>   - **Email:** ananyavajpayee0904@gmail.com<br>   - **LinkedIn:** [https://www.linkedin.com/in/ananya-vajpayee-9633a8257/]<br><br>
-📄 **Resume:**https://drive.google.com/file/d/14IMB4IoVrD522j66yR04Bj8C3Qa-ztuq/view?usp=sharing<br><br>
+📄 **Resume:**https://drive.google.com/file/d/15uEnS3pJeq3EjKPNSeaFCcAVGPop2XUw/view?usp=sharing<br><br>
 ⚡ **Fun Fact:** I enjoy bridging creative design (using Figma/Adobe Suite) with functional code to build user-centric applications.
 
 
