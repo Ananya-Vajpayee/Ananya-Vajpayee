@@ -22,11 +22,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananya-Vajpayee&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## 📊 GitHub Stats
-
-![Ananya's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ananya-Vajpayee&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ananya-Vajpayee&layout=compact&theme=dark)
 
 ### 📅 Activity Timeline
 
